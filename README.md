@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, jry-king here!
+
+Used to study in SJTU, now in CMU, and expecting future.
+
+Learning programming, learning music, and learning everything I want to learn.
 
 <!--
 **jry-king/jry-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
